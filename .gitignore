@@ -1,5 +1,7 @@
+*.iml
 .idea/
 .vagrant/
 Cheffile.lock
 cookbooks/
+rails-workshops.box
 tmp/
