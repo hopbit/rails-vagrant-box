@@ -13,8 +13,7 @@ Basic Vagrant Box setup on Windows 10 x64 created using below instructions:
 
 4. Create rails hello world with following tutorial:
 
-* http://guides.rubyonrails.org/getting_started.html
-
+* [Rails Getting Started](http://guides.rubyonrails.org/getting_started.html)
 
 ## Links
 
