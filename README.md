@@ -24,6 +24,14 @@ Useful links that helped me resolve problems:
 * http://stackoverflow.com/questions/27799260/rails-4-2-server-port-forwarding-on-vagrant-does-not-work  
 * http://stackoverflow.com/questions/17853850/vagrant-vm-not-created-when-trying-to-create-box-from-existing-vm  
 * http://stackoverflow.com/questions/18528717/vagrant-shared-and-synced-folders
+* http://stackoverflow.com/questions/23543866/vagrant-package-how-to-save-changes-to-new-box
+* http://stackoverflow.com/questions/22181325/saving-and-sharing-changes-made-to-vagrant-box
+* https://www.vagrantup.com/docs/cli/package.html
+* http://superuser.com/questions/635256/copy-vagrant-box-locally
+
+Futher to read
+
+* http://ebarnouflant.com/posts/7-convert-a-virtualbox-ova-vm-into-a-vagrant-box
 
 
 ## Setup
