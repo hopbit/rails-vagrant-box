@@ -5,3 +5,5 @@ Cheffile.lock
 cookbooks/
 rails-workshops.box
 tmp/
+ror_workshop/
+ruby_station
