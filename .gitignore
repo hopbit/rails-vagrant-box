@@ -4,7 +4,8 @@
 Cheffile.lock
 cookbooks/
 rails-workshops.box
-tmp/
+rails_station
 ror_workshop/
 ruby_station
+tmp/
 Wprowadzenie do Ruby i Ruby on Rails.pdf
